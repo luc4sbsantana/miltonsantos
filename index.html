@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Audiobook interativo — Milton Santos e a Globalização Brasileira. Leia e ouça simultaneamente com destaque palavra por palavra.">
+  <title>Milton Santos e a Globalização Brasileira — Audiobook</title>
+
+  <!-- Fontes elegantes (Literata e Montserrat) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&family=Montserrat:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Mensagem de erro (oculta por padrão) -->
+  <div id="erro" class="erro" role="alert" aria-live="assertive" hidden>
+    <p id="erro-msg">Não foi possível carregar os dados.</p>
+  </div>
+
+  <!-- Container principal (Estilo Pôster / Livro Digital) -->
+  <main id="livro" class="livro" aria-label="Texto do audiobook">
+    
+    <!-- Cabeçalho Pôster (Milton Santos 100 Anos) -->
+    <header class="poster-header">
+      <div class="poster-header-top">
+        <div class="poster-badge-milton">
+          <div class="milton-titulo-badge">
+            <span class="badge-nome">MILTON SANTOS</span>
+            <span class="badge-anos">100 ANOS</span>
+          </div>
+        </div>
+
+        <div class="poster-evento-info">
+          <div class="evento-linha">XI Semana de Arte e Cultura</div>
+          <div class="evento-linha">XXIII Semana Nacional de Ciência e Tecnologia</div>
+          <div class="evento-slogan">Pensar o espaço, transformar o mundo</div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Área principal de texto (Renderizada via JavaScript) -->
+    <article id="conteudo-texto" class="conteudo-texto">
+      <!-- Título, parágrafos e créditos serão inseridos pelo JS -->
+    </article>
+
+    <!-- Rodapé Institucional (IFSC) -->
+    <footer class="poster-footer">
+      <div class="ifsc-brand">
+        <div class="ifsc-logo-grid">
+          <span class="grid-dot red"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+          <span class="grid-dot green"></span>
+        </div>
+        <div class="ifsc-texto">
+          <div class="ifsc-titulo">INSTITUTO FEDERAL</div>
+          <div class="ifsc-sub">Santa Catarina</div>
+          <div class="ifsc-campus">Câmpus Araranguá</div>
+        </div>
+      </div>
+      
+      <div class="semana-logo">
+        <div class="semana-badge">
+          <span>semana de</span>
+          <strong>arte e cultura</strong>
+        </div>
+      </div>
+    </footer>
+
+  </main>
+
+  <!-- Botão flutuante "Voltar para a leitura" -->
+  <button id="btn-voltar" class="btn-voltar" aria-label="Voltar para a leitura sincronizada" hidden>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="7 13 12 18 17 13"></polyline>
+      <polyline points="7 6 12 11 17 6"></polyline>
+    </svg>
+    Voltar à leitura
+  </button>
+
+  <!-- Player fixo no rodapé -->
+  <footer id="player" class="player" role="region" aria-label="Controles do áudio">
+    <div class="player-inner">
+      <!-- Barra de progresso -->
+      <div class="progresso-container">
+        <input type="range" id="barra-progresso" class="barra-progresso" min="0" max="1000" value="0" step="1" aria-label="Progresso da narração">
+      </div>
+
+      <!-- Controles -->
+      <div class="controles">
+        <button id="btn-play" class="btn-ctrl btn-play" aria-label="Tocar ou pausar">
+          <svg id="icone-play" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+            <polygon points="6,3 20,12 6,21"></polygon>
+          </svg>
+          <svg id="icone-pause" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" class="oculto">
+            <rect x="5" y="3" width="4" height="18"></rect>
+            <rect x="15" y="3" width="4" height="18"></rect>
+          </svg>
+        </button>
+
+        <span class="tempo">
+          <span id="tempo-atual">0:00</span>
+          <span class="tempo-sep">/</span>
+          <span id="tempo-total">0:00</span>
+        </span>
+
+        <button id="btn-velocidade" class="btn-ctrl btn-velocidade" aria-label="Velocidade de reprodução">
+          1×
+        </button>
+
+        <button id="btn-sync" class="btn-ctrl btn-sync ativo" aria-label="Ativar ou desativar acompanhamento automático">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 5v14"></path>
+            <path d="M19 12l-7 7-7-7"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </footer>
+
+  <audio id="audio" preload="auto"></audio>
+
+  <script src="app.js"></script>
+</body>
+</html>

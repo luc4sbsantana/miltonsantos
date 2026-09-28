@@ -1,0 +1,2696 @@
+{
+  "audio": "Geografia.mp3",
+  "language": "pt-BR",
+  "duration": 135.045,
+  "word_count": 384,
+  "words": [
+    {
+      "id": 0,
+      "word": "﻿Este",
+      "start": 0.14,
+      "end": 0.34,
+      "score": 0.868
+    },
+    {
+      "id": 1,
+      "word": "trabalho",
+      "start": 0.4,
+      "end": 0.74,
+      "score": 0.814
+    },
+    {
+      "id": 2,
+      "word": "foi",
+      "start": 0.78,
+      "end": 0.88,
+      "score": 0.889
+    },
+    {
+      "id": 3,
+      "word": "realizado",
+      "start": 0.92,
+      "end": 1.38,
+      "score": 0.933
+    },
+    {
+      "id": 4,
+      "word": "para",
+      "start": 1.42,
+      "end": 1.54,
+      "score": 0.774
+    },
+    {
+      "id": 5,
+      "word": "a",
+      "start": 1.56,
+      "end": 1.6,
+      "score": 0.789
+    },
+    {
+      "id": 6,
+      "word": "Semana",
+      "start": 1.66,
+      "end": 2.0,
+      "score": 0.743
+    },
+    {
+      "id": 7,
+      "word": "de",
+      "start": 2.02,
+      "end": 2.1,
+      "score": 0.873
+    },
+    {
+      "id": 8,
+      "word": "Arte",
+      "start": 2.16,
+      "end": 2.4,
+      "score": 0.89
+    },
+    {
+      "id": 9,
+      "word": "e",
+      "start": 2.42,
+      "end": 2.44,
+      "score": 0.001
+    },
+    {
+      "id": 10,
+      "word": "Cultura,",
+      "start": 2.48,
+      "end": 2.92,
+      "score": 0.848
+    },
+    {
+      "id": 11,
+      "word": "em",
+      "start": 3.04,
+      "end": 3.08,
+      "score": 0.504
+    },
+    {
+      "id": 12,
+      "word": "homenagem",
+      "start": 3.1,
+      "end": 3.62,
+      "score": 0.554
+    },
+    {
+      "id": 13,
+      "word": "aos",
+      "start": 3.64,
+      "end": 3.74,
+      "score": 0.616
+    },
+    {
+      "id": 14,
+      "word": "cem",
+      "start": 3.78,
+      "end": 3.94,
+      "score": 0.786
+    },
+    {
+      "id": 15,
+      "word": "anos",
+      "start": 3.96,
+      "end": 4.2,
+      "score": 0.864
+    },
+    {
+      "id": 16,
+      "word": "de",
+      "start": 4.24,
+      "end": 4.28,
+      "score": 0.646
+    },
+    {
+      "id": 17,
+      "word": "história",
+      "start": 4.3,
+      "end": 4.72,
+      "score": 0.695
+    },
+    {
+      "id": 18,
+      "word": "de",
+      "start": 4.74,
+      "end": 4.84,
+      "score": 0.844
+    },
+    {
+      "id": 19,
+      "word": "Milton",
+      "start": 4.88,
+      "end": 5.2,
+      "score": 0.891
+    },
+    {
+      "id": 20,
+      "word": "Santos.",
+      "start": 5.28,
+      "end": 5.82,
+      "score": 0.871
+    },
+    {
+      "id": 21,
+      "word": "Acompanhe",
+      "start": 5.84,
+      "end": 6.24,
+      "score": 0.665
+    },
+    {
+      "id": 22,
+      "word": "o",
+      "start": 6.26,
+      "end": 6.28,
+      "score": 0.824
+    },
+    {
+      "id": 23,
+      "word": "texto",
+      "start": 6.34,
+      "end": 6.62,
+      "score": 0.49
+    },
+    {
+      "id": 24,
+      "word": "transcrito",
+      "start": 6.68,
+      "end": 7.2,
+      "score": 0.8
+    },
+    {
+      "id": 25,
+      "word": "na",
+      "start": 7.22,
+      "end": 7.3,
+      "score": 0.972
+    },
+    {
+      "id": 26,
+      "word": "tela,",
+      "start": 7.36,
+      "end": 7.64,
+      "score": 0.875
+    },
+    {
+      "id": 27,
+      "word": "enquanto",
+      "start": 7.8,
+      "end": 8.08,
+      "score": 0.935
+    },
+    {
+      "id": 28,
+      "word": "ele",
+      "start": 8.12,
+      "end": 8.2,
+      "score": 0.466
+    },
+    {
+      "id": 29,
+      "word": "é",
+      "start": 8.22,
+      "end": 8.24,
+      "score": 0.0
+    },
+    {
+      "id": 30,
+      "word": "narrado.",
+      "start": 8.28,
+      "end": 9.62,
+      "score": 0.835
+    },
+    {
+      "id": 31,
+      "word": "Milton",
+      "start": 9.88,
+      "end": 10.22,
+      "score": 0.912
+    },
+    {
+      "id": 32,
+      "word": "Santos",
+      "start": 10.3,
+      "end": 10.62,
+      "score": 0.91
+    },
+    {
+      "id": 33,
+      "word": "e",
+      "start": 10.66,
+      "end": 10.7,
+      "score": 0.741
+    },
+    {
+      "id": 34,
+      "word": "a",
+      "start": 10.72,
+      "end": 10.74,
+      "score": 1.0
+    },
+    {
+      "id": 35,
+      "word": "Globalização",
+      "start": 10.8,
+      "end": 11.52,
+      "score": 0.883
+    },
+    {
+      "id": 36,
+      "word": "Brasileira.",
+      "start": 11.56,
+      "end": 12.901,
+      "score": 0.793
+    },
+    {
+      "id": 37,
+      "word": "O",
+      "start": 12.921,
+      "end": 12.941,
+      "score": 0.003
+    },
+    {
+      "id": 38,
+      "word": "que",
+      "start": 12.981,
+      "end": 13.141,
+      "score": 0.52
+    },
+    {
+      "id": 39,
+      "word": "é",
+      "start": 13.201,
+      "end": 13.221,
+      "score": 1.0
+    },
+    {
+      "id": 40,
+      "word": "a",
+      "start": 13.261,
+      "end": 13.301,
+      "score": 0.501
+    },
+    {
+      "id": 41,
+      "word": "globalização,",
+      "start": 13.341,
+      "end": 14.061,
+      "score": 0.904
+    },
+    {
+      "id": 42,
+      "word": "segundo",
+      "start": 14.141,
+      "end": 14.461,
+      "score": 0.839
+    },
+    {
+      "id": 43,
+      "word": "Milton",
+      "start": 14.501,
+      "end": 14.801,
+      "score": 0.849
+    },
+    {
+      "id": 44,
+      "word": "Santos?",
+      "start": 14.881,
+      "end": 15.541,
+      "score": 0.953
+    },
+    {
+      "id": 45,
+      "word": "Milton",
+      "start": 15.701,
+      "end": 16.001,
+      "score": 0.918
+    },
+    {
+      "id": 46,
+      "word": "Santos,",
+      "start": 16.081,
+      "end": 16.421,
+      "score": 0.976
+    },
+    {
+      "id": 47,
+      "word": "um",
+      "start": 16.561,
+      "end": 16.621,
+      "score": 0.742
+    },
+    {
+      "id": 48,
+      "word": "dos",
+      "start": 16.661,
+      "end": 16.761,
+      "score": 0.984
+    },
+    {
+      "id": 49,
+      "word": "maiores",
+      "start": 16.821,
+      "end": 17.141,
+      "score": 0.887
+    },
+    {
+      "id": 50,
+      "word": "pensadores",
+      "start": 17.201,
+      "end": 17.781,
+      "score": 0.82
+    },
+    {
+      "id": 51,
+      "word": "brasileiros,",
+      "start": 17.821,
+      "end": 18.361,
+      "score": 0.85
+    },
+    {
+      "id": 52,
+      "word": "explicava",
+      "start": 18.581,
+      "end": 19.101,
+      "score": 0.851
+    },
+    {
+      "id": 53,
+      "word": "a",
+      "start": 19.121,
+      "end": 19.141,
+      "score": 0.03
+    },
+    {
+      "id": 54,
+      "word": "globalização",
+      "start": 19.181,
+      "end": 19.841,
+      "score": 0.911
+    },
+    {
+      "id": 55,
+      "word": "em",
+      "start": 19.881,
+      "end": 19.941,
+      "score": 0.969
+    },
+    {
+      "id": 56,
+      "word": "três",
+      "start": 19.981,
+      "end": 20.201,
+      "score": 0.824
+    },
+    {
+      "id": 57,
+      "word": "partes.",
+      "start": 20.221,
+      "end": 20.701,
+      "score": 0.845
+    },
+    {
+      "id": 58,
+      "word": "A",
+      "start": 20.861,
+      "end": 20.901,
+      "score": 0.87
+    },
+    {
+      "id": 59,
+      "word": "primeira",
+      "start": 20.961,
+      "end": 21.381,
+      "score": 0.857
+    },
+    {
+      "id": 60,
+      "word": "é",
+      "start": 21.501,
+      "end": 21.561,
+      "score": 0.363
+    },
+    {
+      "id": 61,
+      "word": "a",
+      "start": 21.581,
+      "end": 21.601,
+      "score": 1.0
+    },
+    {
+      "id": 62,
+      "word": "globalização",
+      "start": 21.661,
+      "end": 22.381,
+      "score": 0.849
+    },
+    {
+      "id": 63,
+      "word": "como",
+      "start": 22.441,
+      "end": 22.641,
+      "score": 0.918
+    },
+    {
+      "id": 64,
+      "word": "fábula.",
+      "start": 22.741,
+      "end": 23.141,
+      "score": 0.912
+    },
+    {
+      "id": 65,
+      "word": "Ou",
+      "start": 23.281,
+      "end": 23.341,
+      "score": 0.506
+    },
+    {
+      "id": 66,
+      "word": "seja,",
+      "start": 23.421,
+      "end": 23.701,
+      "score": 0.962
+    },
+    {
+      "id": 67,
+      "word": "a",
+      "start": 23.881,
+      "end": 23.941,
+      "score": 0.676
+    },
+    {
+      "id": 68,
+      "word": "ideia,",
+      "start": 23.981,
+      "end": 24.321,
+      "score": 0.989
+    },
+    {
+      "id": 69,
+      "word": "espalhada",
+      "start": 24.441,
+      "end": 24.901,
+      "score": 0.833
+    },
+    {
+      "id": 70,
+      "word": "pela",
+      "start": 24.961,
+      "end": 25.141,
+      "score": 0.902
+    },
+    {
+      "id": 71,
+      "word": "mídia,",
+      "start": 25.181,
+      "end": 25.481,
+      "score": 0.74
+    },
+    {
+      "id": 72,
+      "word": "de",
+      "start": 25.601,
+      "end": 25.681,
+      "score": 0.556
+    },
+    {
+      "id": 73,
+      "word": "que",
+      "start": 25.721,
+      "end": 25.801,
+      "score": 0.93
+    },
+    {
+      "id": 74,
+      "word": "o",
+      "start": 25.821,
+      "end": 25.881,
+      "score": 0.65
+    },
+    {
+      "id": 75,
+      "word": "mundo",
+      "start": 25.921,
+      "end": 26.101,
+      "score": 0.674
+    },
+    {
+      "id": 76,
+      "word": "está",
+      "start": 26.121,
+      "end": 26.261,
+      "score": 0.581
+    },
+    {
+      "id": 77,
+      "word": "cada",
+      "start": 26.341,
+      "end": 26.541,
+      "score": 0.878
+    },
+    {
+      "id": 78,
+      "word": "vez",
+      "start": 26.601,
+      "end": 26.781,
+      "score": 0.612
+    },
+    {
+      "id": 79,
+      "word": "mais",
+      "start": 26.841,
+      "end": 27.041,
+      "score": 0.8
+    },
+    {
+      "id": 80,
+      "word": "unido,",
+      "start": 27.101,
+      "end": 27.421,
+      "score": 0.832
+    },
+    {
+      "id": 81,
+      "word": "e",
+      "start": 27.541,
+      "end": 27.581,
+      "score": 0.999
+    },
+    {
+      "id": 82,
+      "word": "de",
+      "start": 27.621,
+      "end": 27.701,
+      "score": 0.914
+    },
+    {
+      "id": 83,
+      "word": "que",
+      "start": 27.741,
+      "end": 27.821,
+      "score": 0.991
+    },
+    {
+      "id": 84,
+      "word": "todos",
+      "start": 27.901,
+      "end": 28.221,
+      "score": 0.864
+    },
+    {
+      "id": 85,
+      "word": "vivem",
+      "start": 28.241,
+      "end": 28.501,
+      "score": 0.744
+    },
+    {
+      "id": 86,
+      "word": "melhor.",
+      "start": 28.541,
+      "end": 28.861,
+      "score": 0.939
+    },
+    {
+      "id": 87,
+      "word": "A",
+      "start": 29.041,
+      "end": 29.081,
+      "score": 0.945
+    },
+    {
+      "id": 88,
+      "word": "segunda",
+      "start": 29.141,
+      "end": 29.541,
+      "score": 0.902
+    },
+    {
+      "id": 89,
+      "word": "é",
+      "start": 29.561,
+      "end": 29.741,
+      "score": 0.82
+    },
+    {
+      "id": 90,
+      "word": "a",
+      "start": 29.781,
+      "end": 29.801,
+      "score": 1.0
+    },
+    {
+      "id": 91,
+      "word": "globalização",
+      "start": 29.861,
+      "end": 30.541,
+      "score": 0.899
+    },
+    {
+      "id": 92,
+      "word": "como",
+      "start": 30.601,
+      "end": 30.801,
+      "score": 0.969
+    },
+    {
+      "id": 93,
+      "word": "perversidade.",
+      "start": 30.881,
+      "end": 31.701,
+      "score": 0.873
+    },
+    {
+      "id": 94,
+      "word": "Essa",
+      "start": 31.881,
+      "end": 32.041,
+      "score": 0.41
+    },
+    {
+      "id": 95,
+      "word": "é",
+      "start": 32.181,
+      "end": 32.201,
+      "score": 0.0
+    },
+    {
+      "id": 96,
+      "word": "a",
+      "start": 32.221,
+      "end": 32.241,
+      "score": 0.998
+    },
+    {
+      "id": 97,
+      "word": "realidade",
+      "start": 32.281,
+      "end": 32.801,
+      "score": 0.906
+    },
+    {
+      "id": 98,
+      "word": "de",
+      "start": 32.821,
+      "end": 32.881,
+      "score": 0.99
+    },
+    {
+      "id": 99,
+      "word": "fato,",
+      "start": 32.961,
+      "end": 33.261,
+      "score": 0.982
+    },
+    {
+      "id": 100,
+      "word": "marcada",
+      "start": 33.381,
+      "end": 33.761,
+      "score": 0.931
+    },
+    {
+      "id": 101,
+      "word": "por",
+      "start": 33.821,
+      "end": 33.941,
+      "score": 0.97
+    },
+    {
+      "id": 102,
+      "word": "desemprego,",
+      "start": 33.961,
+      "end": 34.621,
+      "score": 0.849
+    },
+    {
+      "id": 103,
+      "word": "fome",
+      "start": 34.801,
+      "end": 35.121,
+      "score": 0.937
+    },
+    {
+      "id": 104,
+      "word": "e",
+      "start": 35.221,
+      "end": 35.281,
+      "score": 0.867
+    },
+    {
+      "id": 105,
+      "word": "desigualdade.",
+      "start": 35.301,
+      "end": 36.021,
+      "score": 0.874
+    },
+    {
+      "id": 106,
+      "word": "Isso",
+      "start": 36.181,
+      "end": 36.361,
+      "score": 0.588
+    },
+    {
+      "id": 107,
+      "word": "acontece",
+      "start": 36.381,
+      "end": 36.841,
+      "score": 0.696
+    },
+    {
+      "id": 108,
+      "word": "porque",
+      "start": 36.921,
+      "end": 37.161,
+      "score": 0.869
+    },
+    {
+      "id": 109,
+      "word": "nem",
+      "start": 37.201,
+      "end": 37.342,
+      "score": 0.631
+    },
+    {
+      "id": 110,
+      "word": "todos",
+      "start": 37.382,
+      "end": 37.622,
+      "score": 0.899
+    },
+    {
+      "id": 111,
+      "word": "os",
+      "start": 37.682,
+      "end": 37.762,
+      "score": 0.974
+    },
+    {
+      "id": 112,
+      "word": "países",
+      "start": 37.822,
+      "end": 38.262,
+      "score": 0.779
+    },
+    {
+      "id": 113,
+      "word": "entram",
+      "start": 38.322,
+      "end": 38.562,
+      "score": 0.562
+    },
+    {
+      "id": 114,
+      "word": "nesse",
+      "start": 38.582,
+      "end": 38.802,
+      "score": 0.718
+    },
+    {
+      "id": 115,
+      "word": "processo",
+      "start": 38.862,
+      "end": 39.362,
+      "score": 0.715
+    },
+    {
+      "id": 116,
+      "word": "do",
+      "start": 39.382,
+      "end": 39.462,
+      "score": 0.992
+    },
+    {
+      "id": 117,
+      "word": "mesmo",
+      "start": 39.522,
+      "end": 39.782,
+      "score": 0.997
+    },
+    {
+      "id": 118,
+      "word": "jeito.",
+      "start": 39.842,
+      "end": 40.162,
+      "score": 0.917
+    },
+    {
+      "id": 119,
+      "word": "A",
+      "start": 40.342,
+      "end": 40.382,
+      "score": 0.996
+    },
+    {
+      "id": 120,
+      "word": "terceira",
+      "start": 40.442,
+      "end": 40.902,
+      "score": 0.71
+    },
+    {
+      "id": 121,
+      "word": "é",
+      "start": 41.022,
+      "end": 41.062,
+      "score": 0.92
+    },
+    {
+      "id": 122,
+      "word": "uma",
+      "start": 41.122,
+      "end": 41.242,
+      "score": 0.783
+    },
+    {
+      "id": 123,
+      "word": "outra",
+      "start": 41.362,
+      "end": 41.602,
+      "score": 0.75
+    },
+    {
+      "id": 124,
+      "word": "globalização.",
+      "start": 41.662,
+      "end": 42.382,
+      "score": 0.938
+    },
+    {
+      "id": 125,
+      "word": "É",
+      "start": 42.562,
+      "end": 42.622,
+      "score": 0.92
+    },
+    {
+      "id": 126,
+      "word": "a",
+      "start": 42.662,
+      "end": 42.682,
+      "score": 1.0
+    },
+    {
+      "id": 127,
+      "word": "possibilidade",
+      "start": 42.762,
+      "end": 43.482,
+      "score": 0.798
+    },
+    {
+      "id": 128,
+      "word": "de",
+      "start": 43.502,
+      "end": 43.582,
+      "score": 0.831
+    },
+    {
+      "id": 129,
+      "word": "um",
+      "start": 43.602,
+      "end": 43.662,
+      "score": 0.645
+    },
+    {
+      "id": 130,
+      "word": "mundo",
+      "start": 43.702,
+      "end": 43.942,
+      "score": 0.744
+    },
+    {
+      "id": 131,
+      "word": "mais",
+      "start": 43.982,
+      "end": 44.182,
+      "score": 0.803
+    },
+    {
+      "id": 132,
+      "word": "solidário,",
+      "start": 44.202,
+      "end": 44.702,
+      "score": 0.734
+    },
+    {
+      "id": 133,
+      "word": "pensado",
+      "start": 44.722,
+      "end": 45.202,
+      "score": 0.768
+    },
+    {
+      "id": 134,
+      "word": "a",
+      "start": 45.222,
+      "end": 45.242,
+      "score": 0.266
+    },
+    {
+      "id": 135,
+      "word": "partir",
+      "start": 45.282,
+      "end": 45.582,
+      "score": 0.85
+    },
+    {
+      "id": 136,
+      "word": "das",
+      "start": 45.602,
+      "end": 45.742,
+      "score": 0.708
+    },
+    {
+      "id": 137,
+      "word": "pessoas",
+      "start": 45.782,
+      "end": 46.162,
+      "score": 0.916
+    },
+    {
+      "id": 138,
+      "word": "comuns,",
+      "start": 46.202,
+      "end": 46.642,
+      "score": 0.796
+    },
+    {
+      "id": 139,
+      "word": "e",
+      "start": 46.782,
+      "end": 46.822,
+      "score": 0.845
+    },
+    {
+      "id": 140,
+      "word": "não",
+      "start": 46.882,
+      "end": 47.022,
+      "score": 0.757
+    },
+    {
+      "id": 141,
+      "word": "só",
+      "start": 47.102,
+      "end": 47.242,
+      "score": 0.899
+    },
+    {
+      "id": 142,
+      "word": "das",
+      "start": 47.262,
+      "end": 47.442,
+      "score": 0.569
+    },
+    {
+      "id": 143,
+      "word": "grandes",
+      "start": 47.482,
+      "end": 47.822,
+      "score": 0.761
+    },
+    {
+      "id": 144,
+      "word": "empresas.",
+      "start": 47.882,
+      "end": 49.262,
+      "score": 0.935
+    },
+    {
+      "id": 145,
+      "word": "Como",
+      "start": 49.422,
+      "end": 49.622,
+      "score": 0.844
+    },
+    {
+      "id": 146,
+      "word": "a",
+      "start": 49.642,
+      "end": 49.662,
+      "score": 0.986
+    },
+    {
+      "id": 147,
+      "word": "globalização",
+      "start": 49.722,
+      "end": 50.362,
+      "score": 0.958
+    },
+    {
+      "id": 148,
+      "word": "transforma",
+      "start": 50.422,
+      "end": 50.962,
+      "score": 0.834
+    },
+    {
+      "id": 149,
+      "word": "o",
+      "start": 50.982,
+      "end": 51.002,
+      "score": 0.028
+    },
+    {
+      "id": 150,
+      "word": "território",
+      "start": 51.062,
+      "end": 51.562,
+      "score": 0.817
+    },
+    {
+      "id": 151,
+      "word": "brasileiro?",
+      "start": 51.602,
+      "end": 53.002,
+      "score": 0.86
+    },
+    {
+      "id": 152,
+      "word": "Para",
+      "start": 53.022,
+      "end": 53.182,
+      "score": 0.684
+    },
+    {
+      "id": 153,
+      "word": "Milton",
+      "start": 53.222,
+      "end": 53.502,
+      "score": 0.935
+    },
+    {
+      "id": 154,
+      "word": "Santos,",
+      "start": 53.582,
+      "end": 53.922,
+      "score": 0.998
+    },
+    {
+      "id": 155,
+      "word": "a",
+      "start": 54.062,
+      "end": 54.102,
+      "score": 0.726
+    },
+    {
+      "id": 156,
+      "word": "globalização",
+      "start": 54.162,
+      "end": 54.822,
+      "score": 0.923
+    },
+    {
+      "id": 157,
+      "word": "não",
+      "start": 54.862,
+      "end": 54.962,
+      "score": 0.415
+    },
+    {
+      "id": 158,
+      "word": "chega",
+      "start": 55.042,
+      "end": 55.262,
+      "score": 0.615
+    },
+    {
+      "id": 159,
+      "word": "do",
+      "start": 55.282,
+      "end": 55.362,
+      "score": 0.902
+    },
+    {
+      "id": 160,
+      "word": "mesmo",
+      "start": 55.422,
+      "end": 55.702,
+      "score": 0.953
+    },
+    {
+      "id": 161,
+      "word": "jeito",
+      "start": 55.782,
+      "end": 56.022,
+      "score": 0.836
+    },
+    {
+      "id": 162,
+      "word": "a",
+      "start": 56.062,
+      "end": 56.082,
+      "score": 0.999
+    },
+    {
+      "id": 163,
+      "word": "todo",
+      "start": 56.162,
+      "end": 56.402,
+      "score": 0.874
+    },
+    {
+      "id": 164,
+      "word": "lugar",
+      "start": 56.422,
+      "end": 56.702,
+      "score": 0.783
+    },
+    {
+      "id": 165,
+      "word": "do",
+      "start": 56.722,
+      "end": 56.782,
+      "score": 0.946
+    },
+    {
+      "id": 166,
+      "word": "Brasil.",
+      "start": 56.822,
+      "end": 57.182,
+      "score": 0.831
+    },
+    {
+      "id": 167,
+      "word": "Ela",
+      "start": 57.342,
+      "end": 57.502,
+      "score": 0.69
+    },
+    {
+      "id": 168,
+      "word": "cria",
+      "start": 57.582,
+      "end": 57.782,
+      "score": 0.881
+    },
+    {
+      "id": 169,
+      "word": "o",
+      "start": 57.802,
+      "end": 57.822,
+      "score": 0.937
+    },
+    {
+      "id": 170,
+      "word": "que",
+      "start": 57.862,
+      "end": 57.962,
+      "score": 0.7
+    },
+    {
+      "id": 171,
+      "word": "ele",
+      "start": 57.982,
+      "end": 58.102,
+      "score": 0.471
+    },
+    {
+      "id": 172,
+      "word": "chamou",
+      "start": 58.142,
+      "end": 58.462,
+      "score": 0.59
+    },
+    {
+      "id": 173,
+      "word": "de",
+      "start": 58.482,
+      "end": 58.602,
+      "score": 0.725
+    },
+    {
+      "id": 174,
+      "word": "\"meio",
+      "start": 58.662,
+      "end": 58.902,
+      "score": 0.897
+    },
+    {
+      "id": 175,
+      "word": "técnico,",
+      "start": 58.982,
+      "end": 59.502,
+      "score": 0.896
+    },
+    {
+      "id": 176,
+      "word": "científico",
+      "start": 59.562,
+      "end": 60.262,
+      "score": 0.918
+    },
+    {
+      "id": 177,
+      "word": "e",
+      "start": 60.362,
+      "end": 60.442,
+      "score": 0.748
+    },
+    {
+      "id": 178,
+      "word": "informacional\".",
+      "start": 60.502,
+      "end": 61.282,
+      "score": 0.934
+    },
+    {
+      "id": 179,
+      "word": "São",
+      "start": 61.462,
+      "end": 61.562,
+      "score": 0.929
+    },
+    {
+      "id": 180,
+      "word": "regiões",
+      "start": 61.602,
+      "end": 62.042,
+      "score": 0.692
+    },
+    {
+      "id": 181,
+      "word": "com",
+      "start": 62.103,
+      "end": 62.223,
+      "score": 0.922
+    },
+    {
+      "id": 182,
+      "word": "muita",
+      "start": 62.243,
+      "end": 62.483,
+      "score": 0.545
+    },
+    {
+      "id": 183,
+      "word": "tecnologia,",
+      "start": 62.543,
+      "end": 63.283,
+      "score": 0.875
+    },
+    {
+      "id": 184,
+      "word": "agronegócio",
+      "start": 63.463,
+      "end": 64.123,
+      "score": 0.56
+    },
+    {
+      "id": 185,
+      "word": "moderno",
+      "start": 64.163,
+      "end": 64.563,
+      "score": 0.682
+    },
+    {
+      "id": 186,
+      "word": "e",
+      "start": 64.683,
+      "end": 64.723,
+      "score": 0.999
+    },
+    {
+      "id": 187,
+      "word": "conexão",
+      "start": 64.783,
+      "end": 65.263,
+      "score": 0.793
+    },
+    {
+      "id": 188,
+      "word": "rápida",
+      "start": 65.323,
+      "end": 65.683,
+      "score": 0.772
+    },
+    {
+      "id": 189,
+      "word": "com",
+      "start": 65.743,
+      "end": 65.843,
+      "score": 0.703
+    },
+    {
+      "id": 190,
+      "word": "o",
+      "start": 65.863,
+      "end": 65.903,
+      "score": 0.472
+    },
+    {
+      "id": 191,
+      "word": "mundo,",
+      "start": 65.963,
+      "end": 66.203,
+      "score": 0.962
+    },
+    {
+      "id": 192,
+      "word": "como",
+      "start": 66.323,
+      "end": 66.523,
+      "score": 0.843
+    },
+    {
+      "id": 193,
+      "word": "certas",
+      "start": 66.563,
+      "end": 66.943,
+      "score": 0.678
+    },
+    {
+      "id": 194,
+      "word": "áreas",
+      "start": 66.983,
+      "end": 67.243,
+      "score": 0.547
+    },
+    {
+      "id": 195,
+      "word": "do",
+      "start": 67.263,
+      "end": 67.343,
+      "score": 0.968
+    },
+    {
+      "id": 196,
+      "word": "Centro-Oeste",
+      "start": 67.403,
+      "end": 68.043,
+      "score": 0.826
+    },
+    {
+      "id": 197,
+      "word": "e",
+      "start": 68.163,
+      "end": 68.223,
+      "score": 0.948
+    },
+    {
+      "id": 198,
+      "word": "das",
+      "start": 68.243,
+      "end": 68.423,
+      "score": 0.85
+    },
+    {
+      "id": 199,
+      "word": "grandes",
+      "start": 68.463,
+      "end": 68.803,
+      "score": 0.881
+    },
+    {
+      "id": 200,
+      "word": "capitais.",
+      "start": 68.843,
+      "end": 69.423,
+      "score": 0.971
+    },
+    {
+      "id": 201,
+      "word": "Ao",
+      "start": 69.583,
+      "end": 69.663,
+      "score": 0.788
+    },
+    {
+      "id": 202,
+      "word": "lado",
+      "start": 69.703,
+      "end": 69.923,
+      "score": 0.881
+    },
+    {
+      "id": 203,
+      "word": "dessas",
+      "start": 69.943,
+      "end": 70.283,
+      "score": 0.719
+    },
+    {
+      "id": 204,
+      "word": "áreas",
+      "start": 70.323,
+      "end": 70.543,
+      "score": 0.777
+    },
+    {
+      "id": 205,
+      "word": "mais",
+      "start": 70.603,
+      "end": 70.783,
+      "score": 0.807
+    },
+    {
+      "id": 206,
+      "word": "conectadas,",
+      "start": 70.823,
+      "end": 71.463,
+      "score": 0.889
+    },
+    {
+      "id": 207,
+      "word": "existem",
+      "start": 71.583,
+      "end": 71.943,
+      "score": 0.98
+    },
+    {
+      "id": 208,
+      "word": "regiões",
+      "start": 72.003,
+      "end": 72.423,
+      "score": 0.917
+    },
+    {
+      "id": 209,
+      "word": "que",
+      "start": 72.463,
+      "end": 72.563,
+      "score": 0.786
+    },
+    {
+      "id": 210,
+      "word": "ficam",
+      "start": 72.603,
+      "end": 72.843,
+      "score": 0.929
+    },
+    {
+      "id": 211,
+      "word": "de",
+      "start": 72.883,
+      "end": 72.963,
+      "score": 0.927
+    },
+    {
+      "id": 212,
+      "word": "fora",
+      "start": 73.043,
+      "end": 73.303,
+      "score": 0.756
+    },
+    {
+      "id": 213,
+      "word": "desse",
+      "start": 73.343,
+      "end": 73.523,
+      "score": 0.689
+    },
+    {
+      "id": 214,
+      "word": "progresso,",
+      "start": 73.543,
+      "end": 74.103,
+      "score": 0.815
+    },
+    {
+      "id": 215,
+      "word": "com",
+      "start": 74.183,
+      "end": 74.323,
+      "score": 0.773
+    },
+    {
+      "id": 216,
+      "word": "menos",
+      "start": 74.363,
+      "end": 74.603,
+      "score": 0.857
+    },
+    {
+      "id": 217,
+      "word": "investimento",
+      "start": 74.643,
+      "end": 75.303,
+      "score": 0.802
+    },
+    {
+      "id": 218,
+      "word": "e",
+      "start": 75.363,
+      "end": 75.403,
+      "score": 0.844
+    },
+    {
+      "id": 219,
+      "word": "menos",
+      "start": 75.463,
+      "end": 75.743,
+      "score": 0.887
+    },
+    {
+      "id": 220,
+      "word": "infraestrutura.",
+      "start": 75.863,
+      "end": 76.683,
+      "score": 0.896
+    },
+    {
+      "id": 221,
+      "word": "Assim,",
+      "start": 76.843,
+      "end": 77.163,
+      "score": 0.835
+    },
+    {
+      "id": 222,
+      "word": "a",
+      "start": 77.303,
+      "end": 77.343,
+      "score": 0.537
+    },
+    {
+      "id": 223,
+      "word": "globalização",
+      "start": 77.403,
+      "end": 78.083,
+      "score": 0.799
+    },
+    {
+      "id": 224,
+      "word": "aumenta",
+      "start": 78.123,
+      "end": 78.503,
+      "score": 0.901
+    },
+    {
+      "id": 225,
+      "word": "as",
+      "start": 78.523,
+      "end": 78.583,
+      "score": 0.59
+    },
+    {
+      "id": 226,
+      "word": "diferenças",
+      "start": 78.603,
+      "end": 79.223,
+      "score": 0.89
+    },
+    {
+      "id": 227,
+      "word": "dentro",
+      "start": 79.263,
+      "end": 79.563,
+      "score": 0.822
+    },
+    {
+      "id": 228,
+      "word": "do",
+      "start": 79.583,
+      "end": 79.663,
+      "score": 0.979
+    },
+    {
+      "id": 229,
+      "word": "próprio",
+      "start": 79.743,
+      "end": 80.063,
+      "score": 0.882
+    },
+    {
+      "id": 230,
+      "word": "país,",
+      "start": 80.103,
+      "end": 80.463,
+      "score": 0.999
+    },
+    {
+      "id": 231,
+      "word": "e",
+      "start": 80.583,
+      "end": 80.643,
+      "score": 0.728
+    },
+    {
+      "id": 232,
+      "word": "não",
+      "start": 80.683,
+      "end": 80.803,
+      "score": 0.779
+    },
+    {
+      "id": 233,
+      "word": "só",
+      "start": 80.883,
+      "end": 81.003,
+      "score": 0.81
+    },
+    {
+      "id": 234,
+      "word": "entre",
+      "start": 81.063,
+      "end": 81.223,
+      "score": 0.898
+    },
+    {
+      "id": 235,
+      "word": "nações",
+      "start": 81.243,
+      "end": 81.683,
+      "score": 0.654
+    },
+    {
+      "id": 236,
+      "word": "ricas",
+      "start": 81.723,
+      "end": 82.043,
+      "score": 0.823
+    },
+    {
+      "id": 237,
+      "word": "e",
+      "start": 82.063,
+      "end": 82.103,
+      "score": 0.514
+    },
+    {
+      "id": 238,
+      "word": "pobres.",
+      "start": 82.183,
+      "end": 84.043,
+      "score": 0.861
+    },
+    {
+      "id": 239,
+      "word": "Mesmo",
+      "start": 84.063,
+      "end": 84.343,
+      "score": 0.789
+    },
+    {
+      "id": 240,
+      "word": "mostrando",
+      "start": 84.383,
+      "end": 84.823,
+      "score": 0.928
+    },
+    {
+      "id": 241,
+      "word": "os",
+      "start": 84.843,
+      "end": 84.923,
+      "score": 0.938
+    },
+    {
+      "id": 242,
+      "word": "lados",
+      "start": 84.963,
+      "end": 85.263,
+      "score": 0.928
+    },
+    {
+      "id": 243,
+      "word": "ruins",
+      "start": 85.283,
+      "end": 85.623,
+      "score": 0.679
+    },
+    {
+      "id": 244,
+      "word": "da",
+      "start": 85.643,
+      "end": 85.723,
+      "score": 0.822
+    },
+    {
+      "id": 245,
+      "word": "globalização,",
+      "start": 85.783,
+      "end": 86.463,
+      "score": 0.907
+    },
+    {
+      "id": 246,
+      "word": "Milton",
+      "start": 86.483,
+      "end": 86.903,
+      "score": 0.657
+    },
+    {
+      "id": 247,
+      "word": "Santos",
+      "start": 86.964,
+      "end": 87.304,
+      "score": 0.719
+    },
+    {
+      "id": 248,
+      "word": "não",
+      "start": 87.324,
+      "end": 87.444,
+      "score": 0.836
+    },
+    {
+      "id": 249,
+      "word": "desistia",
+      "start": 87.484,
+      "end": 87.944,
+      "score": 0.773
+    },
+    {
+      "id": 250,
+      "word": "de",
+      "start": 87.984,
+      "end": 88.044,
+      "score": 0.96
+    },
+    {
+      "id": 251,
+      "word": "imaginar",
+      "start": 88.064,
+      "end": 88.504,
+      "score": 0.538
+    },
+    {
+      "id": 252,
+      "word": "algo",
+      "start": 88.604,
+      "end": 88.784,
+      "score": 0.81
+    },
+    {
+      "id": 253,
+      "word": "melhor.",
+      "start": 88.824,
+      "end": 89.164,
+      "score": 0.967
+    },
+    {
+      "id": 254,
+      "word": "Ele",
+      "start": 89.304,
+      "end": 89.444,
+      "score": 0.763
+    },
+    {
+      "id": 255,
+      "word": "defendia",
+      "start": 89.464,
+      "end": 89.944,
+      "score": 0.877
+    },
+    {
+      "id": 256,
+      "word": "que",
+      "start": 90.004,
+      "end": 90.084,
+      "score": 0.83
+    },
+    {
+      "id": 257,
+      "word": "o",
+      "start": 90.104,
+      "end": 90.124,
+      "score": 0.412
+    },
+    {
+      "id": 258,
+      "word": "Brasil,",
+      "start": 90.164,
+      "end": 90.564,
+      "score": 0.658
+    },
+    {
+      "id": 259,
+      "word": "e",
+      "start": 90.664,
+      "end": 90.744,
+      "score": 0.548
+    },
+    {
+      "id": 260,
+      "word": "outros",
+      "start": 90.804,
+      "end": 91.064,
+      "score": 0.888
+    },
+    {
+      "id": 261,
+      "word": "países",
+      "start": 91.124,
+      "end": 91.524,
+      "score": 0.799
+    },
+    {
+      "id": 262,
+      "word": "do",
+      "start": 91.564,
+      "end": 91.644,
+      "score": 0.766
+    },
+    {
+      "id": 263,
+      "word": "chamado",
+      "start": 91.684,
+      "end": 92.064,
+      "score": 0.786
+    },
+    {
+      "id": 264,
+      "word": "Sul",
+      "start": 92.144,
+      "end": 92.304,
+      "score": 0.729
+    },
+    {
+      "id": 265,
+      "word": "Global,",
+      "start": 92.344,
+      "end": 92.744,
+      "score": 0.946
+    },
+    {
+      "id": 266,
+      "word": "tinham",
+      "start": 92.844,
+      "end": 93.064,
+      "score": 0.749
+    },
+    {
+      "id": 267,
+      "word": "um",
+      "start": 93.104,
+      "end": 93.144,
+      "score": 0.888
+    },
+    {
+      "id": 268,
+      "word": "papel",
+      "start": 93.164,
+      "end": 93.464,
+      "score": 0.853
+    },
+    {
+      "id": 269,
+      "word": "importante:",
+      "start": 93.484,
+      "end": 94.164,
+      "score": 0.893
+    },
+    {
+      "id": 270,
+      "word": "transformar",
+      "start": 94.284,
+      "end": 94.844,
+      "score": 0.881
+    },
+    {
+      "id": 271,
+      "word": "a",
+      "start": 94.864,
+      "end": 94.904,
+      "score": 0.601
+    },
+    {
+      "id": 272,
+      "word": "periferia",
+      "start": 94.964,
+      "end": 95.524,
+      "score": 0.894
+    },
+    {
+      "id": 273,
+      "word": "em",
+      "start": 95.604,
+      "end": 95.644,
+      "score": 0.14
+    },
+    {
+      "id": 274,
+      "word": "centro",
+      "start": 95.744,
+      "end": 96.104,
+      "score": 0.83
+    },
+    {
+      "id": 275,
+      "word": "de",
+      "start": 96.124,
+      "end": 96.184,
+      "score": 0.995
+    },
+    {
+      "id": 276,
+      "word": "uma",
+      "start": 96.224,
+      "end": 96.344,
+      "score": 0.769
+    },
+    {
+      "id": 277,
+      "word": "nova",
+      "start": 96.404,
+      "end": 96.664,
+      "score": 0.915
+    },
+    {
+      "id": 278,
+      "word": "forma",
+      "start": 96.764,
+      "end": 97.024,
+      "score": 0.962
+    },
+    {
+      "id": 279,
+      "word": "de",
+      "start": 97.064,
+      "end": 97.124,
+      "score": 0.992
+    },
+    {
+      "id": 280,
+      "word": "pensar.",
+      "start": 97.184,
+      "end": 97.584,
+      "score": 0.999
+    },
+    {
+      "id": 281,
+      "word": "Uma",
+      "start": 97.764,
+      "end": 97.904,
+      "score": 0.986
+    },
+    {
+      "id": 282,
+      "word": "forma",
+      "start": 98.004,
+      "end": 98.224,
+      "score": 0.974
+    },
+    {
+      "id": 283,
+      "word": "de",
+      "start": 98.244,
+      "end": 98.344,
+      "score": 0.925
+    },
+    {
+      "id": 284,
+      "word": "pensar",
+      "start": 98.384,
+      "end": 98.784,
+      "score": 0.842
+    },
+    {
+      "id": 285,
+      "word": "que",
+      "start": 98.824,
+      "end": 98.904,
+      "score": 0.844
+    },
+    {
+      "id": 286,
+      "word": "valoriza",
+      "start": 98.944,
+      "end": 99.404,
+      "score": 0.868
+    },
+    {
+      "id": 287,
+      "word": "a",
+      "start": 99.424,
+      "end": 99.444,
+      "score": 0.559
+    },
+    {
+      "id": 288,
+      "word": "cultura",
+      "start": 99.504,
+      "end": 99.844,
+      "score": 0.913
+    },
+    {
+      "id": 289,
+      "word": "local,",
+      "start": 99.904,
+      "end": 100.264,
+      "score": 0.98
+    },
+    {
+      "id": 290,
+      "word": "os",
+      "start": 100.404,
+      "end": 100.484,
+      "score": 0.999
+    },
+    {
+      "id": 291,
+      "word": "movimentos",
+      "start": 100.544,
+      "end": 101.044,
+      "score": 0.822
+    },
+    {
+      "id": 292,
+      "word": "sociais",
+      "start": 101.144,
+      "end": 101.684,
+      "score": 0.863
+    },
+    {
+      "id": 293,
+      "word": "e",
+      "start": 101.804,
+      "end": 101.844,
+      "score": 0.998
+    },
+    {
+      "id": 294,
+      "word": "as",
+      "start": 101.864,
+      "end": 101.964,
+      "score": 0.632
+    },
+    {
+      "id": 295,
+      "word": "soluções",
+      "start": 101.984,
+      "end": 102.444,
+      "score": 0.955
+    },
+    {
+      "id": 296,
+      "word": "criadas",
+      "start": 102.504,
+      "end": 102.884,
+      "score": 0.803
+    },
+    {
+      "id": 297,
+      "word": "pelas",
+      "start": 102.904,
+      "end": 103.204,
+      "score": 0.896
+    },
+    {
+      "id": 298,
+      "word": "próprias",
+      "start": 103.284,
+      "end": 103.664,
+      "score": 0.729
+    },
+    {
+      "id": 299,
+      "word": "pessoas.",
+      "start": 103.704,
+      "end": 104.204,
+      "score": 0.952
+    },
+    {
+      "id": 300,
+      "word": "Para",
+      "start": 104.304,
+      "end": 104.484,
+      "score": 0.907
+    },
+    {
+      "id": 301,
+      "word": "ele,",
+      "start": 104.604,
+      "end": 104.764,
+      "score": 0.749
+    },
+    {
+      "id": 302,
+      "word": "essa",
+      "start": 104.884,
+      "end": 105.104,
+      "score": 0.594
+    },
+    {
+      "id": 303,
+      "word": "seria",
+      "start": 105.164,
+      "end": 105.404,
+      "score": 0.8
+    },
+    {
+      "id": 304,
+      "word": "uma",
+      "start": 105.444,
+      "end": 105.564,
+      "score": 0.733
+    },
+    {
+      "id": 305,
+      "word": "globalização",
+      "start": 105.624,
+      "end": 106.304,
+      "score": 0.904
+    },
+    {
+      "id": 306,
+      "word": "\"de",
+      "start": 106.324,
+      "end": 106.444,
+      "score": 0.967
+    },
+    {
+      "id": 307,
+      "word": "baixo",
+      "start": 106.524,
+      "end": 106.824,
+      "score": 0.522
+    },
+    {
+      "id": 308,
+      "word": "para",
+      "start": 106.864,
+      "end": 107.024,
+      "score": 0.92
+    },
+    {
+      "id": 309,
+      "word": "cima\".",
+      "start": 107.104,
+      "end": 107.404,
+      "score": 0.813
+    },
+    {
+      "id": 310,
+      "word": "Mais",
+      "start": 107.544,
+      "end": 107.744,
+      "score": 0.687
+    },
+    {
+      "id": 311,
+      "word": "humana,",
+      "start": 107.764,
+      "end": 108.144,
+      "score": 0.637
+    },
+    {
+      "id": 312,
+      "word": "e",
+      "start": 108.264,
+      "end": 108.304,
+      "score": 0.999
+    },
+    {
+      "id": 313,
+      "word": "mais",
+      "start": 108.364,
+      "end": 108.564,
+      "score": 0.92
+    },
+    {
+      "id": 314,
+      "word": "justa,",
+      "start": 108.604,
+      "end": 108.944,
+      "score": 0.856
+    },
+    {
+      "id": 315,
+      "word": "do",
+      "start": 108.964,
+      "end": 109.124,
+      "score": 0.98
+    },
+    {
+      "id": 316,
+      "word": "que",
+      "start": 109.184,
+      "end": 109.284,
+      "score": 0.549
+    },
+    {
+      "id": 317,
+      "word": "a",
+      "start": 109.324,
+      "end": 109.344,
+      "score": 0.986
+    },
+    {
+      "id": 318,
+      "word": "globalização",
+      "start": 109.404,
+      "end": 110.084,
+      "score": 0.867
+    },
+    {
+      "id": 319,
+      "word": "comandada",
+      "start": 110.164,
+      "end": 110.624,
+      "score": 0.824
+    },
+    {
+      "id": 320,
+      "word": "apenas",
+      "start": 110.644,
+      "end": 111.004,
+      "score": 0.904
+    },
+    {
+      "id": 321,
+      "word": "pelas",
+      "start": 111.064,
+      "end": 111.284,
+      "score": 0.912
+    },
+    {
+      "id": 322,
+      "word": "grandes",
+      "start": 111.344,
+      "end": 111.684,
+      "score": 0.902
+    },
+    {
+      "id": 323,
+      "word": "potências",
+      "start": 111.744,
+      "end": 112.325,
+      "score": 0.903
+    },
+    {
+      "id": 324,
+      "word": "e",
+      "start": 112.345,
+      "end": 112.405,
+      "score": 0.556
+    },
+    {
+      "id": 325,
+      "word": "empresas.",
+      "start": 112.445,
+      "end": 113.105,
+      "score": 0.836
+    },
+    {
+      "id": 326,
+      "word": "As",
+      "start": 113.665,
+      "end": 113.785,
+      "score": 0.75
+    },
+    {
+      "id": 327,
+      "word": "ideias",
+      "start": 113.805,
+      "end": 114.125,
+      "score": 0.953
+    },
+    {
+      "id": 328,
+      "word": "de",
+      "start": 114.165,
+      "end": 114.225,
+      "score": 0.98
+    },
+    {
+      "id": 329,
+      "word": "Milton",
+      "start": 114.265,
+      "end": 114.545,
+      "score": 0.936
+    },
+    {
+      "id": 330,
+      "word": "Santos",
+      "start": 114.645,
+      "end": 114.965,
+      "score": 0.895
+    },
+    {
+      "id": 331,
+      "word": "ajudam",
+      "start": 115.005,
+      "end": 115.345,
+      "score": 0.989
+    },
+    {
+      "id": 332,
+      "word": "a",
+      "start": 115.385,
+      "end": 115.425,
+      "score": 0.72
+    },
+    {
+      "id": 333,
+      "word": "entender",
+      "start": 115.465,
+      "end": 115.865,
+      "score": 0.97
+    },
+    {
+      "id": 334,
+      "word": "por",
+      "start": 115.945,
+      "end": 116.085,
+      "score": 0.979
+    },
+    {
+      "id": 335,
+      "word": "que",
+      "start": 116.105,
+      "end": 116.225,
+      "score": 0.821
+    },
+    {
+      "id": 336,
+      "word": "a",
+      "start": 116.265,
+      "end": 116.305,
+      "score": 0.585
+    },
+    {
+      "id": 337,
+      "word": "globalização",
+      "start": 116.365,
+      "end": 117.025,
+      "score": 0.898
+    },
+    {
+      "id": 338,
+      "word": "traz",
+      "start": 117.065,
+      "end": 117.285,
+      "score": 0.552
+    },
+    {
+      "id": 339,
+      "word": "tanto",
+      "start": 117.365,
+      "end": 117.585,
+      "score": 0.84
+    },
+    {
+      "id": 340,
+      "word": "oportunidades",
+      "start": 117.605,
+      "end": 118.445,
+      "score": 0.956
+    },
+    {
+      "id": 341,
+      "word": "quanto",
+      "start": 118.525,
+      "end": 118.765,
+      "score": 0.726
+    },
+    {
+      "id": 342,
+      "word": "desigualdades",
+      "start": 118.805,
+      "end": 119.565,
+      "score": 0.942
+    },
+    {
+      "id": 343,
+      "word": "para",
+      "start": 119.605,
+      "end": 119.745,
+      "score": 0.874
+    },
+    {
+      "id": 344,
+      "word": "o",
+      "start": 119.765,
+      "end": 119.785,
+      "score": 0.982
+    },
+    {
+      "id": 345,
+      "word": "Brasil.",
+      "start": 119.825,
+      "end": 120.185,
+      "score": 0.843
+    },
+    {
+      "id": 346,
+      "word": "Elas",
+      "start": 120.345,
+      "end": 120.545,
+      "score": 0.939
+    },
+    {
+      "id": 347,
+      "word": "mostram",
+      "start": 120.605,
+      "end": 120.945,
+      "score": 0.519
+    },
+    {
+      "id": 348,
+      "word": "que",
+      "start": 120.985,
+      "end": 121.065,
+      "score": 0.832
+    },
+    {
+      "id": 349,
+      "word": "o",
+      "start": 121.085,
+      "end": 121.105,
+      "score": 0.915
+    },
+    {
+      "id": 350,
+      "word": "país",
+      "start": 121.165,
+      "end": 121.445,
+      "score": 0.927
+    },
+    {
+      "id": 351,
+      "word": "não",
+      "start": 121.485,
+      "end": 121.585,
+      "score": 0.722
+    },
+    {
+      "id": 352,
+      "word": "precisa",
+      "start": 121.625,
+      "end": 122.005,
+      "score": 0.732
+    },
+    {
+      "id": 353,
+      "word": "apenas",
+      "start": 122.025,
+      "end": 122.385,
+      "score": 0.843
+    },
+    {
+      "id": 354,
+      "word": "aceitar",
+      "start": 122.405,
+      "end": 122.785,
+      "score": 0.811
+    },
+    {
+      "id": 355,
+      "word": "as",
+      "start": 122.825,
+      "end": 122.885,
+      "score": 0.664
+    },
+    {
+      "id": 356,
+      "word": "regras",
+      "start": 122.905,
+      "end": 123.265,
+      "score": 0.732
+    },
+    {
+      "id": 357,
+      "word": "impostas",
+      "start": 123.305,
+      "end": 123.785,
+      "score": 0.742
+    },
+    {
+      "id": 358,
+      "word": "de",
+      "start": 123.805,
+      "end": 123.865,
+      "score": 0.76
+    },
+    {
+      "id": 359,
+      "word": "fora.",
+      "start": 123.925,
+      "end": 124.205,
+      "score": 0.903
+    },
+    {
+      "id": 360,
+      "word": "Ele",
+      "start": 124.345,
+      "end": 124.445,
+      "score": 0.971
+    },
+    {
+      "id": 361,
+      "word": "pode",
+      "start": 124.465,
+      "end": 124.765,
+      "score": 0.839
+    },
+    {
+      "id": 362,
+      "word": "também",
+      "start": 124.805,
+      "end": 125.105,
+      "score": 0.598
+    },
+    {
+      "id": 363,
+      "word": "construir",
+      "start": 125.145,
+      "end": 125.625,
+      "score": 0.798
+    },
+    {
+      "id": 364,
+      "word": "seu",
+      "start": 125.645,
+      "end": 125.765,
+      "score": 0.645
+    },
+    {
+      "id": 365,
+      "word": "próprio",
+      "start": 125.845,
+      "end": 126.165,
+      "score": 0.584
+    },
+    {
+      "id": 366,
+      "word": "caminho",
+      "start": 126.225,
+      "end": 126.565,
+      "score": 0.789
+    },
+    {
+      "id": 367,
+      "word": "dentro",
+      "start": 126.625,
+      "end": 126.985,
+      "score": 0.774
+    },
+    {
+      "id": 368,
+      "word": "desse",
+      "start": 127.005,
+      "end": 127.225,
+      "score": 0.698
+    },
+    {
+      "id": 369,
+      "word": "processo,",
+      "start": 127.265,
+      "end": 127.765,
+      "score": 0.828
+    },
+    {
+      "id": 370,
+      "word": "mais",
+      "start": 127.885,
+      "end": 128.085,
+      "score": 0.872
+    },
+    {
+      "id": 371,
+      "word": "justo",
+      "start": 128.125,
+      "end": 128.485,
+      "score": 0.87
+    },
+    {
+      "id": 372,
+      "word": "e",
+      "start": 128.605,
+      "end": 128.665,
+      "score": 0.948
+    },
+    {
+      "id": 373,
+      "word": "mais",
+      "start": 128.705,
+      "end": 128.905,
+      "score": 0.843
+    },
+    {
+      "id": 374,
+      "word": "atento",
+      "start": 128.925,
+      "end": 129.305,
+      "score": 0.841
+    },
+    {
+      "id": 375,
+      "word": "às",
+      "start": 129.325,
+      "end": 129.405,
+      "score": 0.819
+    },
+    {
+      "id": 376,
+      "word": "pessoas.",
+      "start": 129.445,
+      "end": 131.265,
+      "score": 0.948
+    },
+    {
+      "id": 377,
+      "word": "Produzido",
+      "start": 131.285,
+      "end": 131.745,
+      "score": 0.943
+    },
+    {
+      "id": 378,
+      "word": "por",
+      "start": 131.785,
+      "end": 131.925,
+      "score": 0.778
+    },
+    {
+      "id": 379,
+      "word": "Lucas",
+      "start": 131.985,
+      "end": 132.573,
+      "score": 0.9
+    },
+    {
+      "id": 380,
+      "word": "Bitencourt",
+      "start": 132.593,
+      "end": 133.181,
+      "score": 0.9
+    },
+    {
+      "id": 381,
+      "word": "e",
+      "start": 133.201,
+      "end": 133.789,
+      "score": 0.9
+    },
+    {
+      "id": 382,
+      "word": "Éric",
+      "start": 133.809,
+      "end": 134.397,
+      "score": 0.9
+    },
+    {
+      "id": 383,
+      "word": "Borges.",
+      "start": 134.417,
+      "end": 135.005,
+      "score": 0.9
+    }
+  ]
+}
